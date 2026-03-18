@@ -1,6 +1,1 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- 背景圆形 -->
-  <circle cx="16" cy="16" r="14" fill="currentColor" stroke="currentColor" stroke-width="2"/>
-  <!-- 字母 H -->
-  <text x="16" y="22" text-anchor="middle" fill="white" font-family="system-ui, sans-serif" font-size="18" font-weight="bold">H</text>
-</svg>
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg t="1773848737999" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="1651" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200"><path d="M392.517818 527.36L305.338182 116.363636h219.461818l45.149091 228.212364 220.532364-227.141818h188.369454a9.309091 9.309091 0 0 1 6.749091 15.732363l-378.740364 394.14691 76.939637 380.322909h-211.316364l-40.96-190.138182L234.496 907.636364H23.272727l369.245091-380.276364z" fill="#13227a" p-id="1652"></path></svg>
