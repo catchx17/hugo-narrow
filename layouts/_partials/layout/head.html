@@ -61,14 +61,14 @@
 />
 <meta name="language" content="{{ site.Params.language | default site.LanguageCode }}" />
 
-<meta
+<!-- <meta
   name="robots"
   content="{{- with .Params.robots -}}
     {{ . }}
   {{- else -}}
     index, follow
   {{- end -}}"
-/>
+/> -->
 <link rel="canonical" href="{{ .Permalink }}" />
 
 {{ with site.Params.favicon.svg }}
